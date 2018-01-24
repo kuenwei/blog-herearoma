@@ -1,6 +1,6 @@
 ---
 layout: page
-homepage: false
+homepage: true
 ---
 
 # Will Liu
