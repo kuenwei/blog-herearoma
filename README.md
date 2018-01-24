@@ -1,37 +1,46 @@
-## Welcome to GitHub Pages
+# Jekyll Docs Theme
 
-You can use the [editor on GitHub](https://github.com/kuenwei/mrleftbrain/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+> This is a [Jekyll theme](https://github.com/allejo/jekyll-docs-theme) based on [mistic100's modification](https://github.com/mistic100/jekyll-bootstrap-doc) of the official Bootstrap documentation from a few years back.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Jekyll Docs Theme is provided as a theme for writing documentation for your projects instead of having a single large README file or several markdown files stored in a not so user-friendly manner.
 
-### Markdown
+This theme is still in development but is kept fairly stable; just note, there are a lot things yet to come.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+![Theme Screenshot](https://raw.githubusercontent.com/allejo/jekyll-docs-theme/master/screenshot.png)
 
-```markdown
-Syntax highlighted code block
+## Installation
 
-# Header 1
-## Header 2
-### Header 3
+Fork this project
 
-- Bulleted
-- List
+-or-
 
-1. Numbered
-2. List
+Add this line to your Jekyll site's Gemfile:
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
+```ruby
+gem "jekyll-docs-theme"
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+And add this line to your Jekyll site's `_config.yml`:
 
-### Jekyll Themes
+```yaml
+theme: jekyll-docs-theme
+```
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/kuenwei/mrleftbrain/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+And then execute:
 
-### Support or Contact
+    $ bundle
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Or install it yourself as:
+
+    $ gem install jekyll-docs-theme
+
+## Development
+
+To set up your environment to develop this theme, run `bundle install`.
+
+To develop on this theme, run `bundle exec jekyll serve` and open your browser at `http://localhost:4000`.
+
+## License
+
+The theme is available as open source under the terms of the [MIT License](http://opensource.org/licenses/MIT).
+
