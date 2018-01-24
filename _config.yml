@@ -24,8 +24,8 @@ links:
 
 ui:
     header:
-        color1: "#080331"
-        color2: "#673051"
+        color1: "#1e87f0"
+        color2: "#1688b8"
         trianglify: true
 
 social:
@@ -42,7 +42,7 @@ social:
         profileUrl:
 
 analytics:
-    google: UA-123456-1
+    google: UA-109893604-1
 
 # Build settings
 markdown: kramdown
