@@ -5,13 +5,11 @@ homepage: true
 
 # Will Liu
 
-> This is a [Jekyll theme](https://github.com/allejo/jekyll-docs-theme) based on [mistic100's modification](https://github.com/mistic100/jekyll-bootstrap-doc) of the official Bootstrap documentation from a few years back.
-
 我是一個很大腦思考型的人物，也是為什麼我用 **「左腦諮商師」** 陳述我自己，曾經困惑、不敢相信身心靈工具以及所有神秘學的力量可能成真，直到親身體驗過才發現，不管是要用右腦的體驗方式，還是想要用左腦慢慢的思考因過關係，身、心、靈都是可以完整被詮釋，也能夠以不同的方式理解。
 
-我相信每一個人都是自已生命的主人！因為自己跌倒過、受傷過也才有機會使用不同的工具走過，想透過自己的經驗融合各種工具的優點，幫助到每個人能夠在卡關的時候跨越障礙，看到不同的人生面貌以及找到自己內心真實渴望的方向。 ~希望幫助每一個人看清自己的問題；拿回自己的力量；完成屬於自己的渴望。~
+我相信每一個人都是自已生命的主人！因為自己跌倒過、受傷過也才有機會使用不同的工具走過，想透過自己的經驗融合各種工具的優點，幫助到每個人能夠在卡關的時候跨越障礙，看到不同的人生面貌以及找到自己內心真實渴望的方向。 希望幫助每一個人看清自己的問題；拿回自己的力量；完成屬於自己的渴望。
 
-# Installation
+# 經歷
 
 Add this line to your Jekyll site's Gemfile:
 
@@ -38,7 +36,7 @@ $ gem install jekyll-docs-theme
 ```
 
 <div class="alert alert-warning" markdown="1">
-**Warning:** Custom [themes are not supported on GitHub Pages](https://pages.github.com/themes/) at the time of writing this, so you may either build your site on another platform or simply fork this repo and build upon it as you would any other theme.
+療癒工具僅是作為支持性使用，不具備任何醫療特性以及效用，因此無法取代正統醫療。若有需求，請務必要尋求專業醫師之協助。
 </div>
 
 # Configuration Options
