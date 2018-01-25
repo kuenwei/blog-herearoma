@@ -9,144 +9,48 @@ homepage: true
 
 我相信每一個人都是自已生命的主人！因為自己跌倒過、受傷過也才有機會使用不同的工具走過，想透過自己的經驗融合各種工具的優點，幫助到每個人能夠在卡關的時候跨越障礙，看到不同的人生面貌以及找到自己內心真實渴望的方向。 希望幫助每一個人看清自己的問題；拿回自己的力量；完成屬於自己的渴望。
 
-# 經歷
-
-Add this line to your Jekyll site's Gemfile:
-
-```ruby
-gem "jekyll-docs-theme"
-```
-
-And add this line to your Jekyll site's _config.yml:
-
-```yaml
-theme: jekyll-docs-theme
-```
-
-And then execute:
-
-```
-$ bundle
-```
-
-Or install it yourself as:
-
-```
-$ gem install jekyll-docs-theme
-```
-
 <div class="alert alert-warning" markdown="1">
 療癒工具僅是作為支持性使用，不具備任何醫療特性以及效用，因此無法取代正統醫療。若有需求，請務必要尋求專業醫師之協助。
 </div>
 
-# Configuration Options
+# 經歷
 
-A sample [`_config.yml`](https://github.com/allejo/jekyll-docs-theme/blob/master/docs/_config.yml) file is available with all of the available fields; documentation and more information for each of those fields is available below.
+* 塔羅初階 (2015.11.30)
+* 臼井靈氣一階 (2016.2.1 / 2017.9.3)
+* 阿卡莎脈輪油調癒 (2016.3.12)
+* 臼井靈氣二階 (2016.6.2 / 2017.11.26)
+* 阿卡莎花精調癒卡 (2016.6.12)
+* 塔羅進階 (2016.9.25)
+* 塔羅高階 (2017.3.24)
+* 情緒密碼工作坊認證 (2017.7.1)
+* 精油個論研修 (2017.8.6)
+* SRT 初階 (2017.10.2)
+* SRT 高階 (2017.10.9)
+* 精油化學專業認證 (2017.12.14)
+* 中草藥精油理論與實務初階認證 (2018.1.16)
+* 漢方經絡芳療實務初階認證 (2018.1.22)
 
-## Project
+# 服務項目
+
+目前我提供三種服務如下：
+
+## 塔羅諮商
 
 The project object can be specified with information related to the software this; this information will appear on the homepage's jumbotron area.
 
-```yaml
-project:
-  version: 1.0.0
-  download_url: https://github.com/USER/PROJECT/releases
-```
 
 {:.table}
-| field | description |
+| 項目 | 服務內容 |
 | ----- | ----------- |
-| `version` | The current version of the software |
-| `download_url` | The URL to the current download |
+| 塔羅占卜 | 針對問題進行占卜，幫助你了解狀況，提供作選擇的依據。 |
+| 流年、生命藍圖 | 以紫微十二宮為基礎，排定特定期間運勢，或尋找個人生命藍圖。 |
 
-## Licenses
+## SRT 靈性反應療法
 
 The license object accepts four fields regarding information about the licensing of your software and documentation.
 
-```yaml
-license:
-  software: MIT License
-  software_url: http://opensource.org/licenses/MIT
-
-  docs: CC BY 3.0
-  docs_url: http://creativecommons.org/licenses/by/3.0/
-```
-
-{:.table}
-| field | description |
-| ----- | ----------- |
-| `software` | The license the software is distributed under |
-| `software_url` | A URL to the license text for the license specified in `software` |
-| `docs` | The license this documentation is distributed under |
-| `docs_url` | A URL to the license text for the license specified in `docs` |
-
-## Links
+## 精油諮詢
 
 The links object has two subobjects, `header` and `footer`; both of these objects accept an array of elements with a `title` and `url`. The links defined in the `header` object will appear in the navigation of the website and the links in the `footer` will appear at the bottom of the website.
 
-```yaml
-links:
-  header:
-    - title: GitHub
-      url: https://github.com/allejo/jekyll-docs-theme
-  footer:
-    - title: GitHub
-      url: https://github.com/allejo/jekyll-docs-theme
-    - title: Issues
-      url: https://github.com/allejo/jekyll-docs-theme/issues?state=open
-```
 
-{:.table}
-| field | description |
-| ----- | ----------- |
-| `title` | The textual representation of the URL |
-| `url` | The URL of the link |
-
-## UI
-
-The ui object will contain all the settings in regards to the aesthetics of the website
-
-```yaml
-ui:
-  header:
-    color1: "#080331"
-    color2: "#673051"
-    trianglify: true
-```
-
-{:.table}
-| field | description |
-| ----- | ----------- |
-| `color1` & `color2` | The two colors that will create the gradient of the page header |
-| `trianglify` | When set to true, the page header will be a generated triangular pattern |
-
-## Analytics
-
-```yaml
-analytics:
-    google: UA-123456-1
-```
-
-{:.table}
-| field | description |
-| ----- | ----------- |
-| `google` | The unique identifier for Google Analytics; typically looks like `U-123456-1`
-
-## Social
-
-Options for configuring buttons to "like", "tweet" or "star" this site with the respective social media websites.
-
-```yaml
-social:
-  github:
-    user: allejo
-    repo: jekyll-docs-theme
-  twitter:
-    enabled: false
-    via:
-    hash:
-    account:
-  facebook:
-    enabled: false
-    profileUrl:
-```
