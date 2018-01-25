@@ -15,7 +15,7 @@ license:
 links:
     header:
       - title: SRT Center
-        url: https://srt.center
+        url: http://srt.center
     footer:
       - title: GitHub
         url: https://github.com/allejo/jekyll-docs-theme
@@ -26,7 +26,7 @@ ui:
     header:
         color1: "#080331"
         color2: "#673051"
-        trianglify: true
+        trianglify: false
 
 social:
     github:
