@@ -26,7 +26,7 @@ ui:
     header:
         color1: "#080331"
         color2: "#673051"
-        trianglify: false
+        trianglify: true
 
 social:
     github:
@@ -39,7 +39,7 @@ social:
         hash:
         account:
     facebook:
-        enabled: true
+        enabled: enabled
         profileUrl: https://fb.com/mrleftbrain
 
 analytics:
