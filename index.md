@@ -36,8 +36,7 @@ homepage: true
 
 ## 塔羅諮商
 
-The project object can be specified with information related to the software this; this information will appear on the homepage's jumbotron area.
-
+ <div class="tumblr-post" data-href="https://embed.tumblr.com/embed/post/BVez7Cl_SeW9VrD92h36Og/138827117418" data-did="659c0ce713b6e777555ee244007de43f37a50f13"><a href="http://shop.mrleftbrain.com/post/138827117418/divination">http://shop.mrleftbrain.com/post/138827117418/divination</a></div>  <script async src="https://assets.tumblr.com/post.js"></script>
 
 {:.table}
 | 項目 | 服務內容 |
@@ -47,10 +46,9 @@ The project object can be specified with information related to the software thi
 
 ## SRT 靈性反應療法
 
-The license object accepts four fields regarding information about the licensing of your software and documentation.
-
+ <div class="tumblr-post" data-href="https://embed.tumblr.com/embed/post/BVez7Cl_SeW9VrD92h36Og/166244120028" data-did="98143b3b7e4140094031fa574173a0d654f426fa"><a href="http://shop.mrleftbrain.com/post/166244120028/每一小時-1400依諮詢時間計費-首次清理約-2-25">http://shop.mrleftbrain.com/post/166244120028/每一小時-1400依諮詢時間計費-首次清理約-2-25</a></div>  <script async src="https://assets.tumblr.com/post.js"></script>
+ 
 ## 精油諮詢
 
-The links object has two subobjects, `header` and `footer`; both of these objects accept an array of elements with a `title` and `url`. The links defined in the `header` object will appear in the navigation of the website and the links in the `footer` will appear at the bottom of the website.
-
+ <div class="tumblr-post" data-href="https://embed.tumblr.com/embed/post/BVez7Cl_SeW9VrD92h36Og/166247108383" data-did="9a888bd92c15f2c50548301f4e995535ac9b6670"><a href="http://shop.mrleftbrain.com/post/166247108383/訂製款請來信或-line-諮詢-服務方式請來信或透過-line-諮詢">http://shop.mrleftbrain.com/post/166247108383/訂製款請來信或-line-諮詢-服務方式請來信或透過-line-諮詢</a></div>  <script async src="https://assets.tumblr.com/post.js"></script>
 
