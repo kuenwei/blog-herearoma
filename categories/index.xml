@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Categories on 塔香蒔譜</title>
+    <link>https://example.com/categories/</link>
+    <description>Recent content in Categories on 塔香蒔譜</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-TW</language>
+    
+	<atom:link href="https://example.com/categories/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>塔羅</title>
+      <link>https://example.com/categories/%E5%A1%94%E7%BE%85/</link>
+      <pubDate>Tue, 08 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/categories/%E5%A1%94%E7%BE%85/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>心得</title>
+      <link>https://example.com/categories/%E5%BF%83%E5%BE%97/</link>
+      <pubDate>Sat, 23 Jun 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/categories/%E5%BF%83%E5%BE%97/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>晨露芳言</title>
+      <link>https://example.com/categories/%E6%99%A8%E9%9C%B2%E8%8A%B3%E8%A8%80/</link>
+      <pubDate>Tue, 08 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/categories/%E6%99%A8%E9%9C%B2%E8%8A%B3%E8%A8%80/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>療癒</title>
+      <link>https://example.com/categories/%E7%99%82%E7%99%92/</link>
+      <pubDate>Sun, 01 Apr 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/categories/%E7%99%82%E7%99%92/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>精油</title>
+      <link>https://example.com/categories/%E7%B2%BE%E6%B2%B9/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/categories/%E7%B2%BE%E6%B2%B9/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
