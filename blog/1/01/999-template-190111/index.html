@@ -1377,6 +1377,17 @@ div.main .content .markdown pre, div.main .content .markdown pre code {
 
 
 
+
+<script type='text/javascript'>
+jQuery(&quot;a&quot;).each(function(index) {
+var r = new RegExp(&quot;^(https:
+if (!r.test(jQuery(this).attr(&#39;href&#39;))) {
+jQuery(this).attr(&#39;target&#39;, &#39;_blank&#39;);
+}
+});
+</script>
+
+
 </body>
 </html>
 
