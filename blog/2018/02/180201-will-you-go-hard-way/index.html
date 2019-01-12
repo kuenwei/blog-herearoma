@@ -1460,11 +1460,13 @@ div.main .content .markdown pre, div.main .content .markdown pre code {
 
 
 
-<script type='text/javascript'>
-jQuery(&quot;a&quot;).each(function(index) {
-var r = new RegExp(&quot;^(https:
-if (!r.test(jQuery(this).attr(&#39;href&#39;))) {
-jQuery(this).attr(&#39;target&#39;, &#39;_blank&#39;);
+
+<script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.4.4/jquery.min.js"></script>
+<script type="text/javascript">
+jQuery("a").each(function(index) {
+var r = new RegExp("^(http://"+document.domain+")");
+if (!r.test(jQuery(this).attr('href'))) {
+jQuery(this).attr('target', '_blank');
 }
 });
 </script>
