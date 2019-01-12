@@ -1310,10 +1310,11 @@ THE SOFTWARE.</p>
 
 
 
-<script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.4.4/jquery.min.js"></script>
+
 <script type="text/javascript">
 jQuery("a").each(function(index) {
-var r = new RegExp("^(http://"+document.domain+")");
+
+var r = new RegExp("^(http://https:\/\/blogger.herearoma.com\/)");
 if (!r.test(jQuery(this).attr('href'))) {
 jQuery(this).attr('target', '_blank');
 }
