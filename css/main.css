@@ -529,7 +529,7 @@ blockquote {
 }
 
   .nav-links {
-    font-size: 18px;
+    font-size: 1.1rem;
   }
 
   .nav-links li {
@@ -547,27 +547,27 @@ blockquote {
   }
 
   .article-date {
-    font-size: 19px;
+    font-size: 1.2rem;
   }
 
   .article-taxonomy {
-    font-size: 17px;
+    font-size: 1.1rem;
   }
 
   .list-title,
   .category-title,
   .tag-cloud-title {
-    font-size: 38px;
+    font-size: 2.3rem;
   }
 
   .list-item a {
     padding: 5px 0;
-    font-size: 21px;
+    font-size: 1.4rem;
   }
 
   .list-item-date {
     padding: 5px 0;
-    font-size: 17px;
+    font-size: 1.1rem;
     text-align: right;
     float: right;
   }
@@ -577,7 +577,7 @@ blockquote {
   }
 
   .category-item a {
-     font-size: 21px;
+     font-size: 1.4rem;
   }
 
   .footer-links {
@@ -589,7 +589,7 @@ blockquote {
   }
 
   .page-links {
-    font-size: 19px;
+    font-size: 1.3rem;
   }
 
   .error-page-title {
