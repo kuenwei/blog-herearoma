@@ -6,7 +6,7 @@ body {
 }
 
 body {
-  font-family: 'Merriweather', serif;
+  font-family: 'Comfortaa', serif;
   font-size: 16px;
   -webkit-hyphens: auto;
   hyphens: auto;
@@ -18,7 +18,7 @@ h3,
 h4,
 h5,
 h6 {
-  font-family: 'jf-jinxuan', 'Lato', sans-serif;
+  font-family: 'jf-jinxuan', 'Heebo', sans-serif;
   color: #222;
   font-weight: 600;
 }
@@ -106,7 +106,7 @@ blockquote {
   max-width: 800px;
   margin: 0 auto;
   padding: 0 15px;
-  font-family: 'Lato', sans-serif;
+  font-family: 'Heebo', sans-serif;
   text-align: right;
 }
 
@@ -176,7 +176,7 @@ blockquote {
 
 .article-date {
   font-size: 1rem;
-  font-family: 'Lato', sans-serif;
+  font-family: 'Heebo', sans-serif;
   color: #ccc;
 }
 
@@ -235,7 +235,7 @@ blockquote {
 .article-taxonomy {
   list-style: none;
   padding-left: 0;
-  font-family: 'Lato', sans-serif;
+  font-family: 'Heebo', sans-serif;
   color: #404040;
   font-size: 0.9rem;
   text-align: left;
@@ -298,7 +298,7 @@ blockquote {
 .list-item-date {
   display: block;
   padding: 4px 0;
-  font-family: 'Lato', sans-serif;
+  font-family: 'Heebo', sans-serif;
   color: #ccc;
   font-size: 0.9rem;
 }
@@ -314,7 +314,7 @@ blockquote {
   padding: 3px 0;
   text-decoration: none;
   font-size: 1.05rem;
-  font-family: 'Lato', sans-serif;
+  font-family: 'Heebo', sans-serif;
   font-weight: bold;
   color: #222;
   border-bottom: 1px solid #ddd;
@@ -337,14 +337,14 @@ blockquote {
   padding: 5px 0;
   text-decoration: none;
   font-size: 19px;
-  font-family: 'Lato', sans-serif;
+  font-family: 'Heebo', sans-serif;
   font-weight: bold;
   color: #222;
   transition: color 300ms;
 }
 
 .category-item-count {
-  font-family: 'Lato', sans-serif;
+  font-family: 'Heebo', sans-serif;
   margin-right: 15px;
   color: #ccc;
   font-size: 0.9rem;
@@ -364,7 +364,7 @@ blockquote {
 
 .tag-cloud-item a {
   text-decoration: none;
-  font-family: 'Lato', sans-serif;
+  font-family: 'Heebo', sans-serif;
   font-weight: bold;
   color: #222;
   transition: color 300ms;
@@ -382,7 +382,7 @@ blockquote {
   margin: 0;
   padding: 0;
   text-align: center;
-  font-family: 'Lato', sans-serif;
+  font-family: 'Heebo', sans-serif;
 }
 
 .footer-links {
@@ -424,7 +424,7 @@ blockquote {
   margin: 25px 0;
   padding: 0;
   text-align: center;
-  font-family: 'Lato', sans-serif;
+  font-family: 'Heebo', sans-serif;
   font-size: 1.0rem;
 }
 
