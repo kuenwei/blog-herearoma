@@ -315,7 +315,7 @@ blockquote {
   text-decoration: none;
   font-size: 1.05rem;
   font-family: 'Heebo', sans-serif;
-  font-weight: bold;
+  font-weight: normal;
   color: #222;
   border-bottom: 1px solid #ddd;
   transition: border-color 300ms;
