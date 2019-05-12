@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>塔香食譜</title>
+    <link>https://blog.herearoma.com/en/</link>
+    <description>Recent content on 塔香食譜</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-tw</language>
+    <copyright>&amp;copy; 2019 Will Liu &amp; Herearoma</copyright>
+    
+	<atom:link href="https://blog.herearoma.com/en/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+  </channel>
+</rss>
