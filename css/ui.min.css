@@ -271,7 +271,7 @@ h5 .no-print a:after {
   text-align: center;
 }
 .content hr:after {
-  content: '\002764';
+  content: '\002661';
 //  content: attr(data-content);
   display: inline-block;
   position: relative;
