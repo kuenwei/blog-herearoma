@@ -222,12 +222,15 @@ h5 .no-print a:after {
 }
 */
 .content a {
-	border-bottom: 1px solid;
+	border-bottom: 2px solid #d20852;
+	padding-bottom: 3px;
 }
 .content a:hover {
-	border-bottom: 1px solid #e1e1e1;
+	border-bottom: 0px;
+	color: #d20852;
 	text-decoration:none !important;
     transition:all 0.3s;
+    padding-bottom: 3px;
 }
 .content em, i {
 	text-align: left;
