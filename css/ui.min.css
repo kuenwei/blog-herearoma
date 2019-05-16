@@ -23,7 +23,6 @@ pre {
 }
 a {
 	background-color: transparent;
-	border-bottom: 1px solid;
 }
 abbr[title] {
 	border-bottom: 0;
@@ -222,6 +221,14 @@ h5 .no-print a:after {
     border-radius: 0.25em;
 }
 */
+.content a {
+	border-bottom: 1px solid;
+}
+.content a:hover {
+	border-bottom: 1px solid #e1e1e1;
+	text-decoration:none !important;
+    transition:all 0.3s;
+}
 .content em, i {
 	text-align: left;
 	font-size: 1.3em;
