@@ -22,7 +22,8 @@ pre {
 	font-size: 1em
 }
 a {
-	background-color: transparent
+	background-color: transparent;
+	border-bottom: 1px solid;
 }
 abbr[title] {
 	border-bottom: 0;
