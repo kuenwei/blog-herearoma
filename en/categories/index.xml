@@ -6,10 +6,8 @@
     <description>Recent content in Categories on 塔香食譜</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-tw</language>
-    <copyright>&amp;copy; 2019 Will Liu &amp; Herearoma</copyright>
-    
-	<atom:link href="https://blog.herearoma.com/en/categories/index.xml" rel="self" type="application/rss+xml" />
-    
+    <copyright>&amp;copy; since 2019 willliu.me &amp; herearoma</copyright>
+    <atom:link href="https://blog.herearoma.com/en/categories/" rel="self" type="application/rss+xml" />
     
   </channel>
 </rss>

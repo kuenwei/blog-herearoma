@@ -6,18 +6,17 @@
     <description>Recent content in Categories on 塔香食譜</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-tw</language>
-    <copyright>&amp;copy; 2019 Will Liu &amp; Herearoma</copyright>
-    
-	<atom:link href="https://blog.herearoma.com/categories/index.xml" rel="self" type="application/rss+xml" />
-    
+    <copyright>&amp;copy; since 2019 willliu.me &amp; herearoma</copyright>
+    <atom:link href="https://blog.herearoma.com/categories/" rel="self" type="application/rss+xml" />
     
     <item>
       <title>塔羅</title>
       <link>https://blog.herearoma.com/categories/%E5%A1%94%E7%BE%85/</link>
-      <pubDate>Sat, 09 Feb 2019 15:25:19 +0800</pubDate>
+      <pubDate>Sun, 14 Oct 2018 00:00:00 +0000</pubDate>
       
       <guid>https://blog.herearoma.com/categories/%E5%A1%94%E7%BE%85/</guid>
-      <description></description>
+        <description>
+        </description>
     </item>
     
     <item>
@@ -26,16 +25,8 @@
       <pubDate>Sun, 12 May 2019 00:00:00 +0000</pubDate>
       
       <guid>https://blog.herearoma.com/categories/%E5%BF%83%E5%BE%97/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>晨露芳言</title>
-      <link>https://blog.herearoma.com/categories/%E6%99%A8%E9%9C%B2%E8%8A%B3%E8%A8%80/</link>
-      <pubDate>Sat, 09 Feb 2019 15:25:19 +0800</pubDate>
-      
-      <guid>https://blog.herearoma.com/categories/%E6%99%A8%E9%9C%B2%E8%8A%B3%E8%A8%80/</guid>
-      <description></description>
+        <description>
+        </description>
     </item>
     
     <item>
@@ -44,7 +35,8 @@
       <pubDate>Wed, 30 May 2018 00:00:00 +0000</pubDate>
       
       <guid>https://blog.herearoma.com/categories/%E7%99%82%E7%99%92/</guid>
-      <description></description>
+        <description>
+        </description>
     </item>
     
     <item>
@@ -53,7 +45,18 @@
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
       
       <guid>https://blog.herearoma.com/categories/%E7%B2%BE%E6%B2%B9/</guid>
-      <description></description>
+        <description>
+        </description>
+    </item>
+    
+    <item>
+      <title>計畫</title>
+      <link>https://blog.herearoma.com/categories/%E8%A8%88%E7%95%AB/</link>
+      <pubDate>Sat, 09 Feb 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://blog.herearoma.com/categories/%E8%A8%88%E7%95%AB/</guid>
+        <description>
+        </description>
     </item>
     
   </channel>

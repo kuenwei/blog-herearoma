@@ -6,11 +6,9 @@
     <description>Recent content in Tags on 塔香食譜</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-tw</language>
-    <copyright>&amp;copy; 2019 Will Liu &amp; Herearoma</copyright>
+    <copyright>&amp;copy; since 2019 willliu.me &amp; herearoma</copyright>
     <lastBuildDate>Sat, 17 Mar 2018 00:00:00 +0000</lastBuildDate>
-    
-	<atom:link href="https://blog.herearoma.com/tags/index.xml" rel="self" type="application/rss+xml" />
-    
+    <atom:link href="https://blog.herearoma.com/tags/" rel="self" type="application/rss+xml" />
     
     <item>
       <title>SRT</title>
@@ -18,7 +16,18 @@
       <pubDate>Sat, 17 Mar 2018 00:00:00 +0000</pubDate>
       
       <guid>https://blog.herearoma.com/tags/srt/</guid>
-      <description></description>
+        <description>
+        </description>
+    </item>
+    
+    <item>
+      <title>人性</title>
+      <link>https://blog.herearoma.com/tags/%E4%BA%BA%E6%80%A7/</link>
+      <pubDate>Sun, 01 Apr 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://blog.herearoma.com/tags/%E4%BA%BA%E6%80%A7/</guid>
+        <description>
+        </description>
     </item>
     
     <item>
@@ -27,7 +36,8 @@
       <pubDate>Mon, 29 Jan 2018 00:00:00 +0000</pubDate>
       
       <guid>https://blog.herearoma.com/tags/%E4%BF%A1%E4%BB%B0/</guid>
-      <description></description>
+        <description>
+        </description>
     </item>
     
     <item>
@@ -36,7 +46,8 @@
       <pubDate>Sun, 01 Apr 2018 00:00:00 +0000</pubDate>
       
       <guid>https://blog.herearoma.com/tags/%E5%85%A7%E5%9C%A8%E5%B0%8F%E5%AD%A9/</guid>
-      <description></description>
+        <description>
+        </description>
     </item>
     
     <item>
@@ -45,7 +56,8 @@
       <pubDate>Sat, 23 Jun 2018 15:25:19 +0800</pubDate>
       
       <guid>https://blog.herearoma.com/tags/%E5%8D%A0%E5%8D%9C/</guid>
-      <description></description>
+        <description>
+        </description>
     </item>
     
     <item>
@@ -54,16 +66,18 @@
       <pubDate>Sat, 23 Jun 2018 15:25:19 +0800</pubDate>
       
       <guid>https://blog.herearoma.com/tags/%E5%91%BD%E9%81%8B/</guid>
-      <description></description>
+        <description>
+        </description>
     </item>
     
     <item>
       <title>塔羅</title>
       <link>https://blog.herearoma.com/tags/%E5%A1%94%E7%BE%85/</link>
-      <pubDate>Sat, 09 Feb 2019 15:25:19 +0800</pubDate>
+      <pubDate>Sat, 09 Feb 2019 00:00:00 +0000</pubDate>
       
       <guid>https://blog.herearoma.com/tags/%E5%A1%94%E7%BE%85/</guid>
-      <description></description>
+        <description>
+        </description>
     </item>
     
     <item>
@@ -72,7 +86,8 @@
       <pubDate>Sat, 23 Jun 2018 15:25:19 +0800</pubDate>
       
       <guid>https://blog.herearoma.com/tags/%E5%A1%94%E7%BE%85%E5%B8%AB/</guid>
-      <description></description>
+        <description>
+        </description>
     </item>
     
     <item>
@@ -81,25 +96,18 @@
       <pubDate>Sun, 12 May 2019 00:00:00 +0000</pubDate>
       
       <guid>https://blog.herearoma.com/tags/%E5%B7%A5%E4%BD%9C%E5%9D%8A/</guid>
-      <description></description>
+        <description>
+        </description>
     </item>
     
     <item>
-      <title>心得</title>
-      <link>https://blog.herearoma.com/tags/%E5%BF%83%E5%BE%97/</link>
-      <pubDate>Sat, 23 Jun 2018 00:00:00 +0000</pubDate>
+      <title>心態</title>
+      <link>https://blog.herearoma.com/tags/%E5%BF%83%E6%85%8B/</link>
+      <pubDate>Wed, 30 May 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://blog.herearoma.com/tags/%E5%BF%83%E5%BE%97/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>晨露芳言</title>
-      <link>https://blog.herearoma.com/tags/%E6%99%A8%E9%9C%B2%E8%8A%B3%E8%A8%80/</link>
-      <pubDate>Sat, 09 Feb 2019 15:25:19 +0800</pubDate>
-      
-      <guid>https://blog.herearoma.com/tags/%E6%99%A8%E9%9C%B2%E8%8A%B3%E8%A8%80/</guid>
-      <description></description>
+      <guid>https://blog.herearoma.com/tags/%E5%BF%83%E6%85%8B/</guid>
+        <description>
+        </description>
     </item>
     
   </channel>
