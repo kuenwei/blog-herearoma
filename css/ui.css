@@ -67,13 +67,16 @@ h1, h2, h3, h4, h5, h6 {
   margin-top: 0;
   margin-bottom: 1rem;
   font-weight: 300;
-  color: #222;
+  color: inherit;
   font-family: 'jf-jinxuan', 'Heebo', sans-serif;
 }
 h1 {
   font-size: 3.2rem;
   line-height: 1.25;
   letter-spacing: -.1rem;
+}
+h1 .home-to-all {
+  text-align: left !important;
 }
 h2 {
   font-size: 2.8rem;

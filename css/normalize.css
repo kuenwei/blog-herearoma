@@ -42,6 +42,10 @@ h1 {
   margin: 0.67em 0;
 }
 
+h1 .home-to-all {
+  text-align: left !important;
+}
+
 /* Grouping content
    ========================================================================== */
 
