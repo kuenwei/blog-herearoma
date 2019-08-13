@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://blog.herearoma.com/post/dan-dan-maya-self-book-aug2019/</loc>
+    <lastmod>2019-08-13T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://blog.herearoma.com/post/reconciliation-with-money-workshop-may2019/</loc>
     <lastmod>2019-05-12T00:00:00+00:00</lastmod>
   </url>
@@ -123,7 +128,7 @@
   
   <url>
     <loc>https://blog.herearoma.com/post/</loc>
-    <lastmod>2019-05-12T00:00:00+00:00</lastmod>
+    <lastmod>2019-08-13T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -150,8 +155,20 @@
   </url>
   
   <url>
+    <loc>https://blog.herearoma.com/tags/%E4%BA%86%E8%A7%A3%E8%87%AA%E6%88%91/</loc>
+    <lastmod>2019-08-13T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://blog.herearoma.com/tags/%E4%BA%BA%E6%80%A7/</loc>
     <lastmod>2018-04-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://blog.herearoma.com/tags/%E4%BA%BA%E7%94%9F/</loc>
+    <lastmod>2019-08-13T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -199,7 +216,7 @@
   
   <url>
     <loc>https://blog.herearoma.com/</loc>
-    <lastmod>2019-05-12T00:00:00+00:00</lastmod>
+    <lastmod>2019-08-13T00:00:00+00:00</lastmod>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
@@ -221,7 +238,7 @@
   
   <url>
     <loc>https://blog.herearoma.com/categories/%E5%BF%83%E5%BE%97/</loc>
-    <lastmod>2019-05-12T00:00:00+00:00</lastmod>
+    <lastmod>2019-08-13T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -364,6 +381,12 @@
   <url>
     <loc>https://blog.herearoma.com/tags/%E9%87%91%E9%8C%A2/</loc>
     <lastmod>2019-05-12T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://blog.herearoma.com/tags/%E9%A6%AC%E9%9B%85%E6%9B%86/</loc>
+    <lastmod>2019-08-13T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   

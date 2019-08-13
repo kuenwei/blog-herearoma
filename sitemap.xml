@@ -2,14 +2,14 @@
 <sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	
 	<sitemap>
-	   	<loc>https://blog.herearoma.com/en/sitemap.xml</loc>
+	   	<loc>https://blog.herearoma.com/zh/sitemap.xml</loc>
+		
+	   	<lastmod>2019-08-13T00:00:00+00:00</lastmod>
 		
 	</sitemap>
 	
 	<sitemap>
-	   	<loc>https://blog.herearoma.com/zh/sitemap.xml</loc>
-		
-	   	<lastmod>2019-06-16T03:13:00+08:00</lastmod>
+	   	<loc>https://blog.herearoma.com/en/sitemap.xml</loc>
 		
 	</sitemap>
 	
