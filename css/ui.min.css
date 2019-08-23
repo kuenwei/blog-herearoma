@@ -189,8 +189,7 @@ h6 {
 	font-size: 1.3rem;
 	letter-spacing: 0;
 	text-align: left;
-	line-height: 1.2;
-	margin-top: -25px;
+	line-height: 1.75;
 	position: relative;
 }
 
@@ -226,9 +225,14 @@ h5 .no-print a:before {
   padding: 0 3px 0 5px;
 }
 
+.content h6 {
+	font-size: 1.5rem;
+	padding: 5px;
+}
+
 .content a {
 	border-bottom: 2px solid #9da0a1;
-	padding-bottom: 3px;
+	padding-bottom: 1px;
 	color: inherit;
 }
 .content a:hover {
@@ -236,7 +240,7 @@ h5 .no-print a:before {
 	color: #9da0a1;
 	text-decoration:none !important;
     transition:all 0.1s;
-    padding-bottom: 3px;
+    padding-bottom: 1px;
 }
 .content em, i {
 	text-align: left;
@@ -269,7 +273,7 @@ h5 .no-print a:before {
 }
 */
 .content h5 {
-	font-size: 0.9rem;
+	font-size: 1.5rem;
 }
 .content h5:before {
   content: '\0021E7';
