@@ -225,10 +225,6 @@ h5 .no-print a:before {
   padding: 0 3px 0 5px;
 }
 
-.content h6 {
-	font-size: 1.5rem;
-}
-
 .content a {
 	border-bottom: 2px solid #9da0a1;
 	padding-bottom: 1px;
@@ -273,6 +269,8 @@ h5 .no-print a:before {
 */
 .content h5 {
 	font-size: 1.5rem;
+	margin-top: -20px !important;
+	line-height: 1.0 !important;
 }
 .content h5:before {
   content: '\0021E7';
@@ -281,6 +279,35 @@ h5 .no-print a:before {
   padding: 5px 2px;
   font-size: 1em;
 }
+.content h6 {
+	font-size: 1.5rem;
+}
+.content h6 a{
+	border: 0px !important;
+}
+.content h6 {
+  display: block;     /*设置为块级元素会独占一行形成上下居中的效果*/
+  font-size: 1.7rem;
+  color: inherit;
+  position: relative;   /*定位横线（当横线的父元素）*/
+  background: #fff !important;
+  text-align: center;
+}
+.content h6:before, .content h6:after {
+  content: '';                 /*CSS伪类用法*/
+  position: absolute;         /*定位背景横线的位置*/
+  top: 52%;
+  background: #606263;       /*宽和高做出来的背景横线*/
+  width: 9%;
+  height: 2px;
+}
+.content h6:before{
+  left: 25%;        /*调整背景横线的左右距离*/
+}
+.content h6:after {
+  right: 25%;
+}
+
 .content hr {
   position: relative;
   margin: 1.75rem 0;
@@ -472,18 +499,52 @@ th:first-child, td:first-child {
 th:last-child, td:last-child {
 	padding-right: 0
 }
+/*
 blockquote {
 	box-sizing: border-box;
 	margin: 1.75em 0 1.75em 0;
 	padding: 0 1em 0 1em;
 	border-left: .4em solid
 }
+*/
+blockquote {
+	background-color: #f1f1f1;
+	margin: 0px;
+	padding: 9px;
+}
+blockquote:before {
+  content: '\00275D';
+  display: inline-block;
+  position: relative;
+  font-size: 2em;
+  bottom: 30px;
+  vertical-align: middle;
+  left: 50%;
+  border-bottom: 1px solid;
+}
+
+blockquote:after {
+  content: '\00275E';
+  display: inline-block;
+  position: relative;
+  font-size: 2em;
+  top: 40px;
+  vertical-align: middle;
+  left: 50%;
+  border-top: 1px solid;
+}
+blockquote p {
+	margin: 0;
+	font-size: 1.7rem;
+}
 @media(min-width:55rem) {
+	/*
 	blockquote {
 		margin: 1.75em -2em 1.75em -2em;
 		padding: 0 1.5em 0 1.5em;
 		border-right: .4em solid
 	}
+	*/
 }
 blockquote p:last-of-type cite {
 	display: block;
