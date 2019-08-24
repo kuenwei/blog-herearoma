@@ -226,7 +226,7 @@ h5 .no-print a:before {
 }
 
 .content a {
-	border-bottom: 2px solid #9da0a1;
+	border-bottom: 1px solid #9da0a1;
 	padding-bottom: 1px;
 	color: inherit;
 }
@@ -508,9 +508,13 @@ blockquote {
 }
 */
 blockquote {
-	background-color: #f1f1f1;
-	margin: 0px;
-	padding: 9px;
+  background-color: #f6f6f6;
+  margin: 0px;
+  padding: 8px;
+  padding-left: 2em;
+  padding-right: 2em;
+  border: 0px solid red;
+  border-radius: 4px;
 }
 blockquote:before {
   content: '\00275D';
