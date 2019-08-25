@@ -226,7 +226,7 @@ h5 .no-print a:before {
 }
 
 .content a {
-	border-bottom: 1px solid #9da0a1;
+	border-bottom: 2px solid #9da0a1;
 	padding-bottom: 1px;
 	color: inherit;
 }
