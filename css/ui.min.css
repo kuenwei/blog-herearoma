@@ -335,6 +335,13 @@ h5 .no-print a:before {
 //  transform: rotate(60deg);
 }
 
+li.pin:before {
+  content: "\26B2";
+  list-style: none;
+  margin-left: 1rem;
+  padding-right: 1rem;
+}
+
 
 ul.no-bullet {
 	margin-left: 0;
