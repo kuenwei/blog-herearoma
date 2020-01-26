@@ -383,6 +383,19 @@ ul.no-bullet p.list-item-year {
 	font-size: 0.9em;
 }
 
+#moneycomecome {
+	margin-bottom: 1em;
+}
+
+#moneycomecome p {
+	font-size: 1.5rem !important;
+	padding: 0.5rem;
+}
+
+#moneycomecome a {
+	color: rgba(40,155,177,1);
+}
+
 /* Mobile Friendly */
 
 @media(min-width:55rem) {
